@@ -1,7 +1,6 @@
-import 'package:estudo_carrossel/bullet_row.dart';
-import 'package:estudo_carrossel/slide_carousel.dart';
-import 'package:estudo_carrossel/slide_list.dart';
-
+import 'package:estudo_carrossel/view/bullet_row.dart';
+import 'package:estudo_carrossel/view/slide_carousel.dart';
+import 'package:estudo_carrossel/model/slide_list.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

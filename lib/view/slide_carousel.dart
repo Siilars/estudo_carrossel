@@ -1,4 +1,4 @@
-import 'package:estudo_carrossel/slide_tiles.dart';
+import 'package:estudo_carrossel/view/slide_tiles.dart';
 import 'package:flutter/material.dart';
 
 class SlideCarousel extends StatelessWidget {
